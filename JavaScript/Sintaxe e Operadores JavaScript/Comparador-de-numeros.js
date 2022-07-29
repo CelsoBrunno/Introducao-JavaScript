@@ -35,4 +35,4 @@ function criaSegundaFrase(num1, num2){
     return `Sua Soma é ${soma}, que é ${resultadoQ10} que 10 e ${resultadoQ20} que 20`;
 }
 
-console.log (comparaNumeros(10, -5));
+console.log (comparaNumeros(1, 1));
