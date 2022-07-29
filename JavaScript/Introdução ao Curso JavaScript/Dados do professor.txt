@@ -1,0 +1,6 @@
+Professor
+Github Stebsnusch
+
+https://github.com/stebsnusch/basecamp-javascript
+
+Pasta do GitHub: introducao-ao-javascript
